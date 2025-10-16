@@ -1,3 +1,82 @@
 body {
     margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Karla, sans-serif;
+    background-color: #1C1C1C;
+    color: lightgray;
+}
+
+
+.karla-01 {
+  font-family: "Karla", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+    color: white;
+    margin: 0 0 5px 0;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+span {
+    color: #4ADF86;
+    margin: 0
+}
+
+p {
+    margin: 0 0 50px 0;
+    font-size: 1.3rem;
+    font-weight: 300;
+
+}
+
+button {
+    width: 190px;
+    height: 45px;
+    background-color: #10B981;
+    font-size: 1rem;
+    color: white;
+    font-family: Karla, sans-serif;
+    border: none;
+    border-radius: 5px;
+}
+
+hr {
+    border: none;
+    background-color: #2F3E53;
+    height: 2px;
+    margin: 30px 0;
+}
+.container {
+    width: 550px;
+    height: 500px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #1F2937;
+    padding: 50px 50px;
+    
+}
+
+.passwords-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.passwords {
+    width: 210px;
+    height: 40px;
+    background-color: #273549;
+    text-align: center;
+    color: #55F991;
+    font-size: 1.1rem;
+    font-family: Karla, sans-serif;
+    font-weight: 300;
 }
