@@ -10,7 +10,7 @@ Scrimba solo project to create a random password generator that generates two pa
 
 ## 🚀 Live Demo
 
-TBC
+[https://comforting-cucurucho-24c2fd.netlify.app](https://comforting-cucurucho-24c2fd.netlify.app)
 
 ## 🧠 What I Learned
 
